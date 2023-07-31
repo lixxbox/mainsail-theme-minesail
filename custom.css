@@ -7,6 +7,10 @@ SAVE AS AND REPLACE "sidebar-logo.png"
 */
 
 /* topbar - remove printer name */
+.v-main{
+    margin-top:40px;
+}
+
 .topbar .v-toolbar__title {
     display: none;
 }
